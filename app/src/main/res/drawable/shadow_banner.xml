@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cover_drawable" android:drawable="@drawable/placeholder" />
+    <item android:id="@+id/gradient_drawable">
+        <shape android:shape="rectangle">
+            <gradient android:angle="90" android:startColor="@color/primary"/>
+            <size android:width="500dp" android:height="290dp"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Infinity</string>
+
+    <!--HOME-->
+    <string name="title_home">What do you want to watch?</string>
+    <string name="Category_title_1">Recomendados para você</string>
+    <string name="txt_genres">·%1$s</string>
+    <string name="desc">A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.</string>
+    <string name="suggestion">Sugestões</string>
+
+
+    <!--Categories -->
+    <string name="popular">Popular</string>
+    <string name="now_playing">Em Alta</string>
+    <string name="upcoming">Em Breve</string>
+    <string name="top_rated">Bem Avaliados</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="profile">Profile</string>
+    <string name="search">search</string>
+    <string name="home">Home</string>
+    <string name="txt_search">Pesquisar</string>
+    <string name="txt_movie">Filmes</string>
+    <string name="txt_series">Séries</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
